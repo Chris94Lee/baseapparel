@@ -36,13 +36,13 @@ p{
 
 .right{
     width: 40%;
-    background-image: url(/Users/clee/Desktop/html/BaseapparelComingSoon/base-apparel-coming-soon-master/images/hero-desktop.jpg);
+    background-image: url(./images/hero-desktop.jpg);
     background-size: cover;
 }
 
 .left{
     width: 60%;
-    background-image:url(/Users/clee/Desktop/html/BaseapparelComingSoon/base-apparel-coming-soon-master/images/bg-pattern-desktop.svg);
+    background-image:url(./images/bg-pattern-desktop.svg);
     background-size: cover;
 }
 
